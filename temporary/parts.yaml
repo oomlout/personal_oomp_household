@@ -1,0 +1,1740 @@
+household_toy_animal_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_animal_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_animal_to_sort/working
+  id: household_toy_animal_to_sort
+  id_no_class: animal_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_animal_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_animal_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_animal_to_sort/working)<br>[Household
+    Toy Animal To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_animal_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_animal_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_animal_to_sort/working)<br><br>'
+  md5: 2b7c1a3ebcedf81eb8fc34485fdc330f
+  md5_10: 2b7c1a3ebc
+  md5_10_upper: 2B7C1A3EBC
+  md5_5: 2b7c1
+  md5_5_upper: 2B7C1
+  md5_6: 2b7c1a
+  md5_6_alpha: 1p2xm
+  md5_6_alpha_upper: 1P2XM
+  md5_6_upper: 2B7C1A
+  name: Household Toy Animal To Sort
+  name_no_class: Animal To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_animal_to_sort
+  oomp_word: cloud tv clap
+  oomp_word_emoji: ':cloud: :tv: :clap:'
+  oomp_word_emoji_list:
+  - ':cloud:'
+  - ':tv:'
+  - ':clap:'
+  oomp_word_list:
+  - cloud
+  - tv
+  - clap
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: animal
+  type_capital: Animal
+  type_first_letter: a
+  type_first_letter_upper: A
+  type_upper: ANIMAL
+household_toy_ball_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_ball_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_ball_to_sort/working
+  id: household_toy_ball_to_sort
+  id_no_class: ball_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_ball_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_ball_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_ball_to_sort/working)<br>[Household
+    Toy Ball To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_ball_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_ball_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_ball_to_sort/working)<br><br>'
+  md5: e77ec061b2f6e97eb4b408d4b5008f69
+  md5_10: e77ec061b2
+  md5_10_upper: E77EC061B2
+  md5_5: e77ec
+  md5_5_upper: E77EC
+  md5_6: e77ec0
+  md5_6_alpha: '91680'
+  md5_6_alpha_upper: '91680'
+  md5_6_upper: E77EC0
+  name: Household Toy Ball To Sort
+  name_no_class: Ball To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_ball_to_sort
+  oomp_word: helicopter fax bread
+  oomp_word_emoji: ':helicopter: :fax: :bread:'
+  oomp_word_emoji_list:
+  - ':helicopter:'
+  - ':fax:'
+  - ':bread:'
+  oomp_word_list:
+  - helicopter
+  - fax
+  - bread
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: ball
+  type_capital: Ball
+  type_first_letter: b
+  type_first_letter_upper: B
+  type_upper: BALL
+household_toy_building_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_building_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_building_to_sort/working
+  id: household_toy_building_to_sort
+  id_no_class: building_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_building_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_building_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_building_to_sort/working)<br>[Household
+    Toy Building To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_building_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_building_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_building_to_sort/working)<br><br>'
+  md5: d68b00973dd30d5b9d642cd7130680cc
+  md5_10: d68b00973d
+  md5_10_upper: D68B00973D
+  md5_5: d68b0
+  md5_5_upper: D68B0
+  md5_6: d68b00
+  md5_6_alpha: 8dczk
+  md5_6_alpha_upper: 8DCZK
+  md5_6_upper: D68B00
+  name: Household Toy Building To Sort
+  name_no_class: Building To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_building_to_sort
+  oomp_word: school door bowtie
+  oomp_word_emoji: ':school: :door: :bowtie:'
+  oomp_word_emoji_list:
+  - ':school:'
+  - ':door:'
+  - ':bowtie:'
+  oomp_word_list:
+  - school
+  - door
+  - bowtie
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: building
+  type_capital: Building
+  type_first_letter: b
+  type_first_letter_upper: B
+  type_upper: BUILDING
+household_toy_craft_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_craft_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_craft_to_sort/working
+  id: household_toy_craft_to_sort
+  id_no_class: craft_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_craft_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_craft_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_craft_to_sort/working)<br>[Household
+    Toy Craft To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_craft_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_craft_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_craft_to_sort/working)<br><br>'
+  md5: 39342e900b29fd90250553485bee1ad1
+  md5_10: 39342e900b
+  md5_10_upper: 39342E900B
+  md5_5: '39342'
+  md5_5_upper: '39342'
+  md5_6: 39342e
+  md5_6_alpha: 28coe
+  md5_6_alpha_upper: 28COE
+  md5_6_upper: 39342E
+  name: Household Toy Craft To Sort
+  name_no_class: Craft To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_craft_to_sort
+  oomp_word: tiger mouse zap
+  oomp_word_emoji: ':tiger: :mouse: :zap:'
+  oomp_word_emoji_list:
+  - ':tiger:'
+  - ':mouse:'
+  - ':zap:'
+  oomp_word_list:
+  - tiger
+  - mouse
+  - zap
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: craft
+  type_capital: Craft
+  type_first_letter: c
+  type_first_letter_upper: C
+  type_upper: CRAFT
+household_toy_dinosaur_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_dinosaur_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_dinosaur_to_sort/working
+  id: household_toy_dinosaur_to_sort
+  id_no_class: dinosaur_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_dinosaur_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_dinosaur_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_dinosaur_to_sort/working)<br>[Household
+    Toy Dinosaur To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_dinosaur_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_dinosaur_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_dinosaur_to_sort/working)<br><br>'
+  md5: 405d9624f3cb61cf024f2f057e2b82b7
+  md5_10: 405d9624f3
+  md5_10_upper: 405D9624F3
+  md5_5: 405d9
+  md5_5_upper: 405D9
+  md5_6: 405d96
+  md5_6_alpha: 2iety
+  md5_6_alpha_upper: 2IETY
+  md5_6_upper: 405D96
+  name: Household Toy Dinosaur To Sort
+  name_no_class: Dinosaur To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_dinosaur_to_sort
+  oomp_word: racehorse blowfish basketball
+  oomp_word_emoji: ':racehorse: :blowfish: :basketball:'
+  oomp_word_emoji_list:
+  - ':racehorse:'
+  - ':blowfish:'
+  - ':basketball:'
+  oomp_word_list:
+  - racehorse
+  - blowfish
+  - basketball
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: dinosaur
+  type_capital: Dinosaur
+  type_first_letter: d
+  type_first_letter_upper: D
+  type_upper: DINOSAUR
+household_toy_doll_baby_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_doll_baby_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_baby_to_sort/working
+  id: household_toy_doll_baby_to_sort
+  id_no_class: doll_baby_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_doll_baby_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_baby_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_baby_to_sort/working)<br>[Household
+    Toy Doll Baby To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_baby_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_doll_baby_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_baby_to_sort/working)<br><br>'
+  md5: ed895b8530ef52849fa332ff7258447f
+  md5_10: ed895b8530
+  md5_10_upper: ED895B8530
+  md5_5: ed895
+  md5_5_upper: ED895
+  md5_6: ed895b
+  md5_6_alpha: 99nq3
+  md5_6_alpha_upper: 99NQ3
+  md5_6_upper: ED895B
+  name: Household Toy Doll Baby To Sort
+  name_no_class: Doll Baby To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_doll_baby_to_sort
+  oomp_word: bus hammer rooster
+  oomp_word_emoji: ':bus: :hammer: :rooster:'
+  oomp_word_emoji_list:
+  - ':bus:'
+  - ':hammer:'
+  - ':rooster:'
+  oomp_word_list:
+  - bus
+  - hammer
+  - rooster
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: doll_baby
+  type_capital: Doll Baby
+  type_first_letter: d
+  type_first_letter_upper: D
+  type_upper: DOLL_BABY
+household_toy_doll_barbie_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_doll_barbie_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_barbie_to_sort/working
+  id: household_toy_doll_barbie_to_sort
+  id_no_class: doll_barbie_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_doll_barbie_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_barbie_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_barbie_to_sort/working)<br>[Household
+    Toy Doll Barbie To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_barbie_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_doll_barbie_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_barbie_to_sort/working)<br><br>'
+  md5: d7679132b2503f56c1da8408af0d47ba
+  md5_10: d7679132b2
+  md5_10_upper: D7679132B2
+  md5_5: d7679
+  md5_5_upper: D7679
+  md5_6: d76791
+  md5_6_alpha: 8ekk1
+  md5_6_alpha_upper: 8EKK1
+  md5_6_upper: D76791
+  name: Household Toy Doll Barbie To Sort
+  name_no_class: Doll Barbie To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_doll_barbie_to_sort
+  oomp_word: office herb pushpin
+  oomp_word_emoji: ':office: :herb: :pushpin:'
+  oomp_word_emoji_list:
+  - ':office:'
+  - ':herb:'
+  - ':pushpin:'
+  oomp_word_list:
+  - office
+  - herb
+  - pushpin
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: doll_barbie
+  type_capital: Doll Barbie
+  type_first_letter: d
+  type_first_letter_upper: D
+  type_upper: DOLL_BARBIE
+household_toy_doll_sylvanian_family_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_doll_sylvanian_family_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_sylvanian_family_to_sort/working
+  id: household_toy_doll_sylvanian_family_to_sort
+  id_no_class: doll_sylvanian_family_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_doll_sylvanian_family_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_sylvanian_family_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_sylvanian_family_to_sort/working)<br>[Household
+    Toy Doll Sylvanian Family To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_sylvanian_family_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_doll_sylvanian_family_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_sylvanian_family_to_sort/working)<br><br>'
+  md5: a1afab43f6e8793cebbc5ccf50475157
+  md5_10: a1afab43f6
+  md5_10_upper: A1AFAB43F6
+  md5_5: a1afa
+  md5_5_upper: A1AFA
+  md5_6: a1afab
+  md5_6_alpha: 6b44r
+  md5_6_alpha_upper: 6B44R
+  md5_6_upper: A1AFAB
+  name: Household Toy Doll Sylvanian Family To Sort
+  name_no_class: Doll Sylvanian Family To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_doll_sylvanian_family_to_sort
+  oomp_word: trophy tophat boot
+  oomp_word_emoji: ':trophy: :tophat: :boot:'
+  oomp_word_emoji_list:
+  - ':trophy:'
+  - ':tophat:'
+  - ':boot:'
+  oomp_word_list:
+  - trophy
+  - tophat
+  - boot
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: doll_sylvanian_family
+  type_capital: Doll Sylvanian Family
+  type_first_letter: d
+  type_first_letter_upper: D
+  type_upper: DOLL_SYLVANIAN_FAMILY
+household_toy_doll_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_doll_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_to_sort/working
+  id: household_toy_doll_to_sort
+  id_no_class: doll_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_doll_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_to_sort/working)<br>[Household
+    Toy Doll To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_doll_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_to_sort/working)<br><br>'
+  md5: cb72e5f9dce0bc8066822739678c7cb9
+  md5_10: cb72e5f9dc
+  md5_10_upper: CB72E5F9DC
+  md5_5: cb72e
+  md5_5_upper: CB72E
+  md5_6: cb72e5
+  md5_6_alpha: 7xrz9
+  md5_6_alpha_upper: 7XRZ9
+  md5_6_upper: CB72E5
+  name: Household Toy Doll To Sort
+  name_no_class: Doll To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_doll_to_sort
+  oomp_word: grapes dolls rocket
+  oomp_word_emoji: ':grapes: :dolls: :rocket:'
+  oomp_word_emoji_list:
+  - ':grapes:'
+  - ':dolls:'
+  - ':rocket:'
+  oomp_word_list:
+  - grapes
+  - dolls
+  - rocket
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: doll
+  type_capital: Doll
+  type_first_letter: d
+  type_first_letter_upper: D
+  type_upper: DOLL
+household_toy_fidget_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_fidget_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_fidget_to_sort/working
+  id: household_toy_fidget_to_sort
+  id_no_class: fidget_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_fidget_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_fidget_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_fidget_to_sort/working)<br>[Household
+    Toy Fidget To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_fidget_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_fidget_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_fidget_to_sort/working)<br><br>'
+  md5: d2b0adb1e715d8d9a8974378f6cb5443
+  md5_10: d2b0adb1e7
+  md5_10_upper: D2B0ADB1E7
+  md5_5: d2b0a
+  md5_5_upper: D2B0A
+  md5_6: d2b0ad
+  md5_6_alpha: 87y5p
+  md5_6_alpha_upper: 87Y5P
+  md5_6_upper: D2B0AD
+  name: Household Toy Fidget To Sort
+  name_no_class: Fidget To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_fidget_to_sort
+  oomp_word: pineapple crown dress
+  oomp_word_emoji: ':pineapple: :crown: :dress:'
+  oomp_word_emoji_list:
+  - ':pineapple:'
+  - ':crown:'
+  - ':dress:'
+  oomp_word_list:
+  - pineapple
+  - crown
+  - dress
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: fidget
+  type_capital: Fidget
+  type_first_letter: f
+  type_first_letter_upper: F
+  type_upper: FIDGET
+household_toy_game_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_game_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_game_to_sort/working
+  id: household_toy_game_to_sort
+  id_no_class: game_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_game_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_game_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_game_to_sort/working)<br>[Household
+    Toy Game To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_game_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_game_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_game_to_sort/working)<br><br>'
+  md5: 17a4b8df1d5d7bc0d9847cbaea71cf2e
+  md5_10: 17a4b8df1d
+  md5_10_upper: 17A4B8DF1D
+  md5_5: 17a4b
+  md5_5_upper: 17A4B
+  md5_6: 17a4b8
+  md5_6_alpha: x7lk
+  md5_6_alpha_upper: X7LK
+  md5_6_upper: 17A4B8
+  name: Household Toy Game To Sort
+  name_no_class: Game To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_game_to_sort
+  oomp_word: thumbsdown book hamburger
+  oomp_word_emoji: ':thumbsdown: :book: :hamburger:'
+  oomp_word_emoji_list:
+  - ':thumbsdown:'
+  - ':book:'
+  - ':hamburger:'
+  oomp_word_list:
+  - thumbsdown
+  - book
+  - hamburger
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: game
+  type_capital: Game
+  type_first_letter: g
+  type_first_letter_upper: G
+  type_upper: GAME
+household_toy_pretend_job_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_pretend_job_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_job_to_sort/working
+  id: household_toy_pretend_job_to_sort
+  id_no_class: pretend_job_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_pretend_job_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_job_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_job_to_sort/working)<br>[Household
+    Toy Pretend Job To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_job_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_pretend_job_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_job_to_sort/working)<br><br>'
+  md5: 416d00792be0414fb1e50650606617c4
+  md5_10: 416d00792b
+  md5_10_upper: 416D00792B
+  md5_5: 416d0
+  md5_5_upper: 416D0
+  md5_6: 416d00
+  md5_6_alpha: 2jwg0
+  md5_6_alpha_upper: 2JWG0
+  md5_6_upper: 416D00
+  name: Household Toy Pretend Job To Sort
+  name_no_class: Pretend Job To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_pretend_job_to_sort
+  oomp_word: camel shell bowtie
+  oomp_word_emoji: ':camel: :shell: :bowtie:'
+  oomp_word_emoji_list:
+  - ':camel:'
+  - ':shell:'
+  - ':bowtie:'
+  oomp_word_list:
+  - camel
+  - shell
+  - bowtie
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: pretend_job
+  type_capital: Pretend Job
+  type_first_letter: p
+  type_first_letter_upper: P
+  type_upper: PRETEND_JOB
+household_toy_pretend_kitchen_dish_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_pretend_kitchen_dish_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_dish_to_sort/working
+  id: household_toy_pretend_kitchen_dish_to_sort
+  id_no_class: pretend_kitchen_dish_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_pretend_kitchen_dish_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_dish_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_dish_to_sort/working)<br>[Household
+    Toy Pretend Kitchen Dish To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_dish_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_pretend_kitchen_dish_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_dish_to_sort/working)<br><br>'
+  md5: f2316930966afd20445ba1cb82291026
+  md5_10: f231693096
+  md5_10_upper: F231693096
+  md5_5: f2316
+  md5_5_upper: F2316
+  md5_6: f23169
+  md5_6_alpha: 9g76x
+  md5_6_alpha_upper: 9G76X
+  md5_6_upper: F23169
+  name: Household Toy Pretend Kitchen Dish To Sort
+  name_no_class: Pretend Kitchen Dish To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_pretend_kitchen_dish_to_sort
+  oomp_word: one ocean cactus
+  oomp_word_emoji: ':one: :ocean: :cactus:'
+  oomp_word_emoji_list:
+  - ':one:'
+  - ':ocean:'
+  - ':cactus:'
+  oomp_word_list:
+  - one
+  - ocean
+  - cactus
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: pretend_kitchen_dish
+  type_capital: Pretend Kitchen Dish
+  type_first_letter: p
+  type_first_letter_upper: P
+  type_upper: PRETEND_KITCHEN_DISH
+household_toy_pretend_kitchen_food_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_pretend_kitchen_food_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_food_to_sort/working
+  id: household_toy_pretend_kitchen_food_to_sort
+  id_no_class: pretend_kitchen_food_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_pretend_kitchen_food_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_food_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_food_to_sort/working)<br>[Household
+    Toy Pretend Kitchen Food To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_food_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_pretend_kitchen_food_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_food_to_sort/working)<br><br>'
+  md5: 7f04b41b99ff263503b905dca1f8224a
+  md5_10: 7f04b41b99
+  md5_10_upper: 7F04B41B99
+  md5_5: 7f04b
+  md5_5_upper: 7F04B
+  md5_6: 7f04b4
+  md5_6_alpha: 4yf1w
+  md5_6_alpha_upper: 4YF1W
+  md5_6_upper: 7F04B4
+  name: Household Toy Pretend Kitchen Food To Sort
+  name_no_class: Pretend Kitchen Food To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_pretend_kitchen_food_to_sort
+  oomp_word: speaker wink coffee
+  oomp_word_emoji: ':speaker: :wink: :coffee:'
+  oomp_word_emoji_list:
+  - ':speaker:'
+  - ':wink:'
+  - ':coffee:'
+  oomp_word_list:
+  - speaker
+  - wink
+  - coffee
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: pretend_kitchen_food
+  type_capital: Pretend Kitchen Food
+  type_first_letter: p
+  type_first_letter_upper: P
+  type_upper: PRETEND_KITCHEN_FOOD
+household_toy_pretend_kitchen_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_pretend_kitchen_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_to_sort/working
+  id: household_toy_pretend_kitchen_to_sort
+  id_no_class: pretend_kitchen_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_pretend_kitchen_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_to_sort/working)<br>[Household
+    Toy Pretend Kitchen To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_pretend_kitchen_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_to_sort/working)<br><br>'
+  md5: 752c90310d5513087f518a85b2dbdc11
+  md5_10: 752c90310d
+  md5_10_upper: 752C90310D
+  md5_5: 752c9
+  md5_5_upper: 752C9
+  md5_6: 752c90
+  md5_6_alpha: 4kl8w
+  md5_6_alpha_upper: 4KL8W
+  md5_6_upper: 752C90
+  name: Household Toy Pretend Kitchen To Sort
+  name_no_class: Pretend Kitchen To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_pretend_kitchen_to_sort
+  oomp_word: ghost snowflake scissors
+  oomp_word_emoji: ':ghost: :snowflake: :scissors:'
+  oomp_word_emoji_list:
+  - ':ghost:'
+  - ':snowflake:'
+  - ':scissors:'
+  oomp_word_list:
+  - ghost
+  - snowflake
+  - scissors
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: pretend_kitchen
+  type_capital: Pretend Kitchen
+  type_first_letter: p
+  type_first_letter_upper: P
+  type_upper: PRETEND_KITCHEN
+household_toy_pretend_kitchen_utensil_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_pretend_kitchen_utensil_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_utensil_to_sort/working
+  id: household_toy_pretend_kitchen_utensil_to_sort
+  id_no_class: pretend_kitchen_utensil_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_pretend_kitchen_utensil_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_utensil_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_utensil_to_sort/working)<br>[Household
+    Toy Pretend Kitchen Utensil To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_utensil_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_pretend_kitchen_utensil_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_kitchen_utensil_to_sort/working)<br><br>'
+  md5: 7db14bed00221e61de62dad0e4e0ce26
+  md5_10: 7db14bed00
+  md5_10_upper: 7DB14BED00
+  md5_5: 7db14
+  md5_5_upper: 7DB14
+  md5_6: 7db14b
+  md5_6_alpha: 4wk0b
+  md5_6_alpha_upper: 4WK0B
+  md5_6_upper: 7DB14B
+  name: Household Toy Pretend Kitchen Utensil To Sort
+  name_no_class: Pretend Kitchen Utensil To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_pretend_kitchen_utensil_to_sort
+  oomp_word: phone briefcase penguin
+  oomp_word_emoji: ':phone: :briefcase: :penguin:'
+  oomp_word_emoji_list:
+  - ':phone:'
+  - ':briefcase:'
+  - ':penguin:'
+  oomp_word_list:
+  - phone
+  - briefcase
+  - penguin
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: pretend_kitchen_utensil
+  type_capital: Pretend Kitchen Utensil
+  type_first_letter: p
+  type_first_letter_upper: P
+  type_upper: PRETEND_KITCHEN_UTENSIL
+household_toy_pretend_pet_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_pretend_pet_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort/working
+  id: household_toy_pretend_pet_to_sort
+  id_no_class: pretend_pet_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_pretend_pet_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br>[Household
+    Toy Pretend Pet To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_pretend_pet_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br><br>'
+  md5: 7202fea03b4cf47d8e9117052fff2d1d
+  md5_10: 7202fea03b
+  md5_10_upper: 7202FEA03B
+  md5_5: 7202f
+  md5_5_upper: 7202F
+  md5_6: 7202fe
+  md5_6_alpha: 4g5by
+  md5_6_alpha_upper: 4G5BY
+  md5_6_upper: 7202FE
+  name: Household Toy Pretend Pet To Sort
+  name_no_class: Pretend Pet To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_pretend_pet_to_sort
+  oomp_word: dolls blush recycle
+  oomp_word_emoji: ':dolls: :blush: :recycle:'
+  oomp_word_emoji_list:
+  - ':dolls:'
+  - ':blush:'
+  - ':recycle:'
+  oomp_word_list:
+  - dolls
+  - blush
+  - recycle
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: pretend_pet
+  type_capital: Pretend Pet
+  type_first_letter: p
+  type_first_letter_upper: P
+  type_upper: PRETEND_PET
+household_toy_pretend_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_pretend_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_to_sort/working
+  id: household_toy_pretend_to_sort
+  id_no_class: pretend_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_pretend_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_to_sort/working)<br>[Household
+    Toy Pretend To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_pretend_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_to_sort/working)<br><br>'
+  md5: 4e30b9260526cf1ba73f764333ef5012
+  md5_10: 4e30b92605
+  md5_10_upper: 4E30B92605
+  md5_5: 4e30b
+  md5_5_upper: 4E30B
+  md5_6: 4e30b9
+  md5_6_alpha: 31tx5
+  md5_6_alpha_upper: 31TX5
+  md5_6_upper: 4E30B9
+  name: Household Toy Pretend To Sort
+  name_no_class: Pretend To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_pretend_to_sort
+  oomp_word: honeybee foggy fries
+  oomp_word_emoji: ':honeybee: :foggy: :fries:'
+  oomp_word_emoji_list:
+  - ':honeybee:'
+  - ':foggy:'
+  - ':fries:'
+  oomp_word_list:
+  - honeybee
+  - foggy
+  - fries
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: pretend
+  type_capital: Pretend
+  type_first_letter: p
+  type_first_letter_upper: P
+  type_upper: PRETEND
+household_toy_puzzle_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_puzzle_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_puzzle_to_sort/working
+  id: household_toy_puzzle_to_sort
+  id_no_class: puzzle_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_puzzle_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_puzzle_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_puzzle_to_sort/working)<br>[Household
+    Toy Puzzle To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_puzzle_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_puzzle_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_puzzle_to_sort/working)<br><br>'
+  md5: 30fa1eea828619efd001650e74ac4fdd
+  md5_10: 30fa1eea82
+  md5_10_upper: 30FA1EEA82
+  md5_5: 30fa1
+  md5_5_upper: 30FA1
+  md5_6: 30fa1e
+  md5_6_alpha: 1wsny
+  md5_6_alpha_upper: 1WSNY
+  md5_6_upper: 30FA1E
+  name: Household Toy Puzzle To Sort
+  name_no_class: Puzzle To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_puzzle_to_sort
+  oomp_word: foggy nine angel
+  oomp_word_emoji: ':foggy: :nine: :angel:'
+  oomp_word_emoji_list:
+  - ':foggy:'
+  - ':nine:'
+  - ':angel:'
+  oomp_word_list:
+  - foggy
+  - nine
+  - angel
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: puzzle
+  type_capital: Puzzle
+  type_first_letter: p
+  type_first_letter_upper: P
+  type_upper: PUZZLE
+household_toy_stuffie_to_sort:
+  classification: household_toy
+  classification_capital: Household Toy
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_upper: HOUSEHOLD_TOY
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_upper: ''
+  description_main: to_sort
+  description_main_capital: To Sort
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_upper: TO_SORT
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/household_toy_stuffie_to_sort
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_stuffie_to_sort/working
+  id: household_toy_stuffie_to_sort
+  id_no_class: stuffie_to_sort
+  id_no_size: tosort
+  id_no_type: to_sort
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[household_toy_stuffie_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_stuffie_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_stuffie_to_sort/working)<br>[Household
+    Toy Stuffie To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_stuffie_to_sort/working)<br><br>'
+  markdown_short: '[household_toy_stuffie_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_stuffie_to_sort/working)<br><br>'
+  md5: fd4d4b54f1a1b9bbabb6fa915dcc37a1
+  md5_10: fd4d4b54f1
+  md5_10_upper: FD4D4B54F1
+  md5_5: fd4d4
+  md5_5_upper: FD4D4
+  md5_6: fd4d4b
+  md5_6_alpha: 9vsy3
+  md5_6_alpha_upper: 9VSY3
+  md5_6_upper: FD4D4B
+  name: Household Toy Stuffie To Sort
+  name_no_class: Stuffie To Sort
+  name_no_size: Tosort
+  name_no_size_short: Tosort
+  name_no_type: To Sort
+  oomp_key: oomp_household_toy_stuffie_to_sort
+  oomp_word: parking bug penguin
+  oomp_word_emoji: ':parking: :bug: :penguin:'
+  oomp_word_emoji_list:
+  - ':parking:'
+  - ':bug:'
+  - ':penguin:'
+  oomp_word_list:
+  - parking
+  - bug
+  - penguin
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_upper: ''
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: stuffie
+  type_capital: Stuffie
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_upper: STUFFIE
